@@ -1,0 +1,6 @@
+C:\Users\MariaBochkarev\Desktop\C#\DiceConsole\DiceConsole\bin\Debug\DiceConsole.exe.config
+C:\Users\MariaBochkarev\Desktop\C#\DiceConsole\DiceConsole\bin\Debug\DiceConsole.exe
+C:\Users\MariaBochkarev\Desktop\C#\DiceConsole\DiceConsole\bin\Debug\DiceConsole.pdb
+C:\Users\MariaBochkarev\Desktop\C#\DiceConsole\DiceConsole\obj\Debug\DiceConsole.csprojResolveAssemblyReference.cache
+C:\Users\MariaBochkarev\Desktop\C#\DiceConsole\DiceConsole\obj\Debug\DiceConsole.exe
+C:\Users\MariaBochkarev\Desktop\C#\DiceConsole\DiceConsole\obj\Debug\DiceConsole.pdb
